@@ -12,7 +12,7 @@ const CONFIG = {
     '🚀 PoS Staking Service Provider for Cosmos Ecosystem',
   defaultImage: defaultImage,
 
-  defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
+  defaultTheme: 'light', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
 
   language: 'en',
   textDirection: 'ltr',
