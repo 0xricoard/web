@@ -1,15 +1,15 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'genznodes',
+  name: 'BimaSakti Validator',
 
-  origin: 'https://genznodes.dev',
+  origin: 'https://bimasaktivalidator.my.id',
   basePathname: '/',
   trailingSlash: false,
 
-  title: 'genznodes - staking service provider',
+  title: 'BimaSakti Validator - PoS staking service provider',
   description:
-    '🚀 Relayer and Staking Service Provider for Cosmos Ecosystem',
+    '🚀 PoS Staking Service Provider for Cosmos Ecosystem',
   defaultImage: defaultImage,
 
   defaultTheme: 'system', // Values: "system" | "light" | "dark" | "light:only" | "dark:only"
